@@ -4,7 +4,7 @@ slug: Web/Accessibility/ARIA/Roles/tooltip_role
 page-type: aria-role
 spec-urls:
   - https://w3c.github.io/aria/#tooltip
-  - https://w3c.github.io/aria-practices/#tooltip
+  - https://www.w3.org/WAI/ARIA/apg/patterns/tooltip/
 ---
 
 A `tooltip` is a contextual text bubble that displays a description for an element that appears on pointer hover or keyboard focus.

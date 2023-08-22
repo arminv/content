@@ -4,7 +4,7 @@ slug: Web/Accessibility/ARIA/Roles/form_role
 page-type: aria-role
 spec-urls:
   - https://w3c.github.io/aria/#form
-  - https://w3c.github.io/aria-practices/#aria_lh_form
+  - https://www.w3.org/WAI/ARIA/apg/practices/landmark-regions/#landmarkroles
 ---
 
 The `form` role can be used to identify a group of elements on a page that provide equivalent functionality to an HTML form.
